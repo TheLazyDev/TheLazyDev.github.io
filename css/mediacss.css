@@ -1,0 +1,13 @@
+
+@media (max-width: 1000px) {
+	 
+	#head {
+		width: 100%;
+	}
+	
+	#menus {
+    float: none;
+    display: block;
+  }
+
+}
